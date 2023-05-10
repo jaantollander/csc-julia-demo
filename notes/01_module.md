@@ -4,7 +4,6 @@ Loading Julia module
 module load julia/1.8.5
 ```
 
-
 What is loaded?
 
 ```bash
